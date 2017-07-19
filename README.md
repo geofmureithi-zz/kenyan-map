@@ -58,10 +58,10 @@ const MapWrapper = (props) => {
   return(<KenyanMap />)
 }
 ```
-##Contributions
+## Contributions
 Feel free to create PRs of your improvements or usage.
 
-##Licence
+## Licence
 MIT
 
 
